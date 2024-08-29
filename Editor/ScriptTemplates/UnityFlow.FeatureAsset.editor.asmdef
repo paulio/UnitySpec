@@ -1,3 +1,7 @@
 {
-	"name": "FeatureAsset"
+	"name": "FeatureAsset",
+	"includePlatforms": [
+        "Editor"
+    	]
+
 }
